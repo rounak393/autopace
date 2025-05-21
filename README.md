@@ -1,5 +1,5 @@
 # autopace
-# 🚗 Traffic Speed Detection with YOLOv8
+# 🚗 Traffic Speed Detection with YOLOv8(assosciated with IDEAS@-ISI KKATA)
 
 This project uses [YOLOv8](https://github.com/ultralytics/ultralytics) for vehicle detection and calculates their speed based on frame analysis in a traffic video. Ideal for smart city applications, traffic monitoring, and basic computer vision tasks.
 
